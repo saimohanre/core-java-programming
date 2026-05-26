@@ -1,0 +1,23 @@
+
+
+import java.util.Scanner;
+class Q27
+{
+	static Scanner sc=new Scanner(System.in);
+	int m1(float b)
+	{
+		System.out.println(b);
+		return sc.nextInt();
+	}
+	static Boolean m2(Q27 c)
+	{
+		
+		System.out.println(c.m1(sc.nextFloat()));
+		return sc.nextBoolean();
+	}
+	public static void main(String[] args)
+	{
+		Q27 c=new Q27();
+		System.out.println(m2(c));	
+	}
+ss

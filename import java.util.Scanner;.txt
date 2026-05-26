@@ -1,0 +1,27 @@
+import java.util.Scanner;
+class D
+{
+	static Scanner sc=new Scanner(System.in);
+	int m1(float a);
+	{
+		System.out.println(a);
+		return sc.nextInt();
+	}
+	boolean m1(long b)
+	{
+		System.out.println(b);
+		System.out.println(this.m1(sc.nextFloat()));
+		return sc.nextBoolean();
+	}
+	String m1(int c)
+	{
+		System.out.println(c);
+		System.out.println(this.m1(sc.nextLong()));
+		return sc.next();
+	}
+	public static void main(String[] args)
+	{
+		D obj=new D();
+		System.out.println(obj.this.m1(sc.nextInt()));
+	}
+}	

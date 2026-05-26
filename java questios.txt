@@ -1,0 +1,199 @@
+1.creat a java application where we have one class it contains a local variable under the main method display the value of local variable  by using printing statement.
+ 
+2.creat a java application where we have one class it contains global static variable display the value of static variable under the main method by using printing statement
+
+3.creat a java application where we have one class it contains non static or instant variable display the value of non static or instant variable under the main method by using printing statement
+
+4.creat a java application where we have one class it contains a static global variable, global non-static variable, and a local variable under a main method. display the value of static variable , non static variable and local variable by using printing statement. 
+
+5.creat a java application where we have one  class which contains a static method m1,having no parameters with no return type. Display user friendly message in m1 method, invoke this method under method.
+
+6.Creat a java application where we have one class which contains a static methos m1 having no parameters with integer as a return type. Display the user friendly message in m1 method and return the value integer. invoke the m1 method
+
+7.Creat a java application where we have one class which contains a static method m1 having parameter int and returns nothing ,display the value of variable in m1 method , invoke this under the main method.
+
+8.creat a java application where we have one class which contains static method m1 having Boolean as a parameter and returns char, display the Boolean value in m1 method and return a character. invoke this method under the main method .
+
+9.creat a java application where we have one class which contains four types of static method display respective values or user friendly messages under those method, return the values if that method has return the method type, invoke these four method under the main method
+
+10.creat a java application where we have one class which contains a non static method m1 having no parameters with no return type, display user friendly method in m1 method . invoke this method under the main method.
+
+11.creat a java application where we have one class which contains non static method m1 with integer as a parameter having no return type display the value of variable in m1 method invoke this method under the main method.
+
+12.creat a java application where we have one class which contain a non static method m1 havimg no parameters and returns Boolean value display the any user friendly m1 method and return the Boolean value. invoke this method under the main method.
+
+13.creat a java application where we have one class which contain non static method m1 having character as a parameters and returns float value , display the value of variable in m1 method and return the float value. invoke this method under the main method.
+
+14.creat a java application where we have one class which contains four tyoes of non static functions display the respectively user friendly messages and  return the values if that method has retuen type ,invoke these four methods under the main method.	
+
+15.								having parameter and return type display the value of variable in both methods invoke these two method under the main method.
+
+16.creat a java application where we have one class which contains a static method m1 having parameter and a non static method m2 having two parameters and returns Boolean value ,invoke this method under the main method by providing dynamic input.s17
+
+17.creat a java application where we have one class which contains two static variable two non static variable two local variables intialize these variables using dynamic inputs. display all the values of variable under the main method.
+
+18.creat a java application where we have one class which contains  a static method m1 having parameters and return type , a non static method m2 having parameter and return type. invoke these two methods under the main method by providing dynamic input.r
+
+19.Creat a java application where we have one class which contains a non static meyhod m1 having parameteers and return type another non static method m2 havng parameters and return type invoke m1 method under m2 method and m2 method under the main method.r1
+
+20.Creat a java application where we have one class which contain non static method m1 having parameter and return type, a static method m2 having parameter and return type and method m3 having parameters and return type then invoke under m1 under m2 method under main method by providing dynamic inputs. r2
+
+
+21.Creat a java application where we have one class which contain static method m1 having parameter and return type, a static method m2 having parameter and return type and method m3 having parameters and return type,static method m4 having parameters and return type , invoke under m1 underb m2,m2 under m3,m3under m4,m4 under main method by providing dynamic inputs.r3
+
+22.Creat a java application where we have one class which contain static method m1 having parameter and return type, non static method m2 having parameter and return type ,static method m3 having perameter and return type, non static  method m4 having para meter and return type, invoke m1 under m2 ,m2 under m3,m3 under m4 and m4 under main method.r4
+
+23.Creat a java application where we have one class satisfies all the 8 methods .invoke m1 uder m2,m2 under m3,m3 under m4,m4 under m5, m5 under m6, m6 under m7, m7 under m8,m8 under the main method.r5
+
+24.Creat a java application where we have one class which contains static method m1 having integer as a parameter and returns string value, non static method m2 having string as a parameter return float value ,invoke both the methods under the main method by provinding dynamic inputs(note m1 method return value should pass an argument to m2 method.)r6
+
+
+25..Creat a java application where we have one class which contain one non static method m1 having string as a parameters and return float value and static method m2 having Boolean as parameter and return float value invoke these two method according to the requirement. note m1 method return value must be retuen of m2)r7 
+
+26.Creat a java application where we have one class which contain a static method m1 having class variable as a parameter and no return type. invoke this method under main method by providing dynamic inputs.r8
+
+27.Creat a java application where we have one class which contain one non staic method m1 having parameter and return type , static metod m2 having parameter and return type ,then invoke m1 method under m2 ,m2 method under main method by providing dynamic input.
+notr: invoke m1 method under m2 method using the reference of m2 method parameter.
+
+
+28..Creat a java application where we have one class which contain one non staic method m1 having no parameter and returns class variable invoke nthis method under the manin method
+
+29.Creat a java application where we have one class which contain one non staic method and two non static methods having parameters and return type then invoke these methods in main method.
+note: do not creat object under main method and global area
+
+30.Creat a java application where we have one class which contain one  staic method m1 having no parameter and retuen Boolean value,two non static methods like m2 and m3 having parameters and return type , then invoke all th methods in under main method 
+note: if  m1 method value true then invoke m2 method else invoke m3 methodn
+
+31.Creat a java application where we have one class which contain two staic method and two non static having parameters and return type invoke these all methods by providing dynamic and implement method to method.
+note:implement the method s alternatively like static method ,non static method ,static method and non static method.
+creat object only once.//creat object in global area
+
+32.Creat a java application where we have one class which contain nonstatic method like addition having two interger parameters and return addition of those two parameters,another nos static like subtraction having two interger parameter and return subtaraction of those two parameters and another non static nethod like multiplication having no parameters and returns the multiplication of both  addition and subtraction methos result. invoke these properties under the main method by providing dynamic inputs.
+
+33.Creat a java application where we have one class Bank it contains a global variable balance and two non static method like deposit and with draw having amount as parameter and returns available balance ofter performing respective operations then invoke these method s under the main method by providing  dynamic inputs 
+
+34.Creat a java application where we have one class which contain non static method m1 having integer as parameter and return bollean value,a static method m2 having Boolean as parameter and return string value,a non static method m3 having character as parameter return double value invoke these method ina single line under main method by providing dynamic input.
+NOTE:DO NOT USE IMPORT KEY WORD SCANNER CLASS.
+
+35.Creat a java application where we have one class which contain static method m1 having byte as parameter and return integer value,a non static method m2 having character as a parameter and returns Boolean value, static method m3 having integer as parameter and return string value and a non static method m4 having float as parameter and return double value invoke these method in single line under main method by providing dynamic inputs with out using import keyword.
+
+
+37.Create a Java application where we have one class which contains a non-static method like details having parameters as employee id, employee name, employee designation, and employee salary then provide details of 5 employees and print them.
+
+38.Create a Java application where we have one class like batch 253  it contains non static method like display having no parameters and no return type it has to display of details of student based on user choice.
+
+39.CAJAWWH one class like organisation, which provides the deatils like employee id,name,salary,designation,worklocation and company name. create 5 instances by adding 5 emolyee details and display any employee details.by using display details method.According to the user choice byy providing dynamic inputs.*/
+
+
+41.which contain a static variable and non static variable and non static method m1 having parameters return type and a default constructure display the values under the constructure and invoke all the properties under the main method by providing dynamic inputs.
+
+42.which contain static variable,non static variable,static method m1,non static method m2 having parameter and return type and a defauklt constructor invoke all the properties under the constructor by providing dynamic inputs .note: do not store the object in aa variable . 
+
+43.Create a Java application where we have one class which contain one instant variable and parameterized constructure and invoke these properties under main method by providing dynamic input.
+
+
+44.Create a Java application where we have one class which contains three instance variables(global variable) with out intialisation then initialize these variables while creating the object by providing the dynamic input.
+
+45.Create a Java application where we have one class which contains one instance variable and one default constructure, one single parameterized constructure,one double parameterized constructur,one triple parameterized constructure invoke default constructure under single parameterized constructure and sngle parameterized under double parameterized ,double parameterized under triple parameterized constructure.
+
+46.Create a Java application where we have one class which contains one instance variable and a object parametarized constructer invoke these properties under main method by providing dynamic inputs.
+
+
+
+47. have one class which contains two instance variable with out initialization , then initialize variables while creating object print is variable under object parametarized constructer also print the copied values of these variables ,invoke these properties under main method by providing dynamic inputs.
+
+48.creat a java application hwrew we need to satisfy this keyword variable level.
+
+50.where we have one class like student,it contains 1 instance variable like attendance,it also contains a non static method core java ,it also having parameter attendance. invoke these properties under main method by providing dynamic inputs.
+note: if core java Attandance is greater than global attendance  then return " good keep it up"else return "bad". 
+
+51.creat a java application where we have one class it contains three non static method having parameter and return type then invoke any one method into main method  and remaining method under another method by using this keyword.
+
+52.creat a java application where we need to satisfy the this key word at constructor level.by dynamic inputs
+
+53.craet ajava application where we need to satisfy in a single line.
+ 
+56.cajawwh one class which contains a non static variable and non static method m1 having parameters and return type and a static method m2 having parameter and return then inherit this class to another class which contains an instance vriable,a non static method having pa and return ,then invoke ALL the properties under main method by providing dynamic input.
+
+57. create a java application where we have one class which contains an instance variable and a non static method inherit these class in another class which contains a static and a non static methods having parameter and return type then inherit these class into another class which contains an instance variables and  a non static method then invoke all this properties under main method by providing dynamic inputs.*/
+
+58.
+64.cjawwneed to satify is-relation ship
+65.crea a java application where we need to satisfy has-a relation
+66.creat a java application where we need satisfy user-a relation ship.
+
+67.cjawwhclass like insta it contain one private filed like password then provide setter getter methods for this variable or filed and we have separate class like user from here update the password and display the updated password to the user by providing dynamic inputs
+
+68.cjawwe have one class like bank which contains two private fields like user name and atm pin then provide setter getter mathods for this fields.and we have a another class like user from here update user name and atm pin and then display the old  values and updated values.by providing dynamic inputs.
+
+69.crja wwhave one class like insta it contains two private fileds user name and pass word then provide setter and getter methods for these fileds and we have separate class like user here update the user name ans password based on user choice .if he wants to update only user if he wants to update the passwors or else if he wants to update both then update then display the updated values by providing Dynamic inputs.
+
+70.cjawwhave one class like bank it contains private fields like user name and password initialize thse fileds by using constructor injection and provide setter getter methods for these fields and we have another class like user update private fields and display the updated values to the user by unsing dynamic inputs
+
+71.cjawwe have one class like gmail whisvh contain private field like email and mobile username,password initialize these private fileds using constructor injection and setter getter method we also have another class like user here update the user name only it is matched to the user mobile number else display as user not found.update password only if it matches  with to the email or else display user not found.
+
+
+75.cjawwneed to satisfy booth overloading and overriding .
+
+76.cjawwhave one class which contatin static method m1 having pararmeters and retun type satisfy both overloading and riding.
+
+77.cjawwe have one abstract class which contains two abstract method and one parameterized constructor inherit this class into concert class and provide implemetion for all abstract methods invoke this properties under main method.
+
+
+81.cjawwhave one abstract method ,one defined method and two single parametrized constructer inherit this class into concert class provide implemetion for abstract classs invoke alla tha  properties  main method.
+
+82.cjwwhave one obstract class and one abstract method and one defined method and one single parama inherit this calss into concert class provide implementation for abstract class invoke this mian method.
+note:call the super class constructor with out explicitly using .
+
+83.cjawwh one abstract class which contains one abstract method one defined method and one pc then inherit this class iinto one more abstract class which vontaind one abstract method and one pc then inherit this class into conctret class ,provide implementation for all abstract methods and invoke all the methods under display method of conceret class ehich does not ave any p and return type invoke dispalay under main method.
+
+85.CAJAWWH one abstract class which contains two abstract methods one defined method and one PC(parameterized constructor) we also have one conceret class which contains two instance variables and two non static methods and one PC then access properties of both the classes into another class test like by providing dynamic inputs.
+
+86.cjawwh one abstract class which contain two abstract methods one defined method and one pc then inherit this abstract class three concret classes like a,b,c provide implementation in each class invoke all the properties under main of separate class like test.according to the user choice by using upcasting.
+
+87.cjawwh one interface which contains one abstract method one defined method then inherit this interface into one concret class provide implementation for abstract mehod and invoke all the properties under main method by providing dynamic inputs. 
+
+89.cjawwh one interface which contains two abstract method two defined method then inherit this interface into one concret class provide implementation for abstract mehod and invoke all the properties under main method by providing dynamic inputs. 
+
+90.cjawwhave one interface which contains two abstract methods one defined method then inherit this interface into one abstract class which contains one abstract method and one pc then inherit this class intherit concret class  provide implemetion for all ABSTRCT METHODS BY PROVIDING DYNAMIC INPUTS
+
+91.cjawwhave two interface which constains one abstract method and one defined method in each also
+ona abstract class which contain one abstract method and ine defined method one pc then inherit this to interface abstract class into concret class provide imeplemtion for all properties under main method by providing dynamic inputs.
+
+93.cjaww three interfaces which contains two abstract methods and one defined method in each then inherit these three uinter faces into one abstract class which contains one abstract method one pc then inherit this class into theee concret class provide implementation fpor all abstract methods another class test which contain ine user defined method binder having abstract class as parameter anssd returns any interface.
+here we need to invoke all the properties by using parameter invoke bider method uder main method by passing abstract class object as a parameter according to user choice. 
+
+Member Inner Class
+
+94.CAJAPWH one class it contains 2 non static methods having parameter and return type and a private variable and a member inner class which contains one non static method then invoke alla these methods  under main method by provoding dynamic inputs.
+NOTE--Access the private variable inside the member inner class*/
+
+static inner class
+
+95.CAJAPWH one class it contains  private viable and non static method having paramer and return type inside this class static inner class which contains static and non static methods acces private fileds in these method invoke all the properties under main method of separate clss Test.
+
+Local inner class
+
+96.CAJAPWH one class it contains non static method having parameter and return type inside this method we have a local inner class which contains non static method then invoke all the properties under main method by providing dynamic inputs.
+		
+Anonymous inner class
+						
+98.cjwwhave one abstract class  which contain two abstract methods having parameter and return tyoe then provide implements for abstract methods by using anounymus inner class by proving dynamic inputs.
+
+100.cjawwh one interface which two abstract methods and then abstract class which contain two define and one undefine method and a pc then provide functionality for all abstract methods by using an inner calss and invoke them providing dynamic inputs. 
+
+lamda expression
+
+
+
+INNER INTERFACE
+
+103.CJAP where we have one interface it contains 2 undefined methods and an inner interface which comtains one undefined method ,then provide functionality and invoke all the properties under main method by provding dynamic inputs.
+
+
+
+
+
+
+
+

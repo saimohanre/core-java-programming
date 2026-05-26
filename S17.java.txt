@@ -1,0 +1,30 @@
+import java.util.Scanner;
+class S17
+{
+	 Scanner sc=new Scanner(System.in);
+	 static float m1(int a)
+	{
+	         System.out.println(a);
+		 return 20.3f;
+	}
+	Boolean m2(int b, float c)
+	{
+		System.out.println(b);
+		System.out.println(c);
+		return true;
+	}
+	public static void main(String[] args)
+	{
+		S17 obj=new S17();
+		S17 sc=new S17();
+		System.out.println("enter m1 character value");
+		int s=obj.sc.nextInt();
+		System.out.println("enter m2 integer and float values");
+		int d=obj.sc.nextInt();
+		float h=obj.sc.nextFloat();
+		System.out.println("m1 values are");
+		System.out.println(m1(s));
+		System.out.println("m2 values are");
+		System.out.println(obj.m2(d,h));
+	}
+}
