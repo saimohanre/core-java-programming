@@ -1,4 +1,4 @@
-/*
+v/*
 Member Inner Class
 95.CAJAPWH one class it contains 2 non static methods having parameter and return type and a private variable and a member inner class which contains one non static method then invoke alla these methods  under main method by provoding dynamic inputs.
 NOTE--Access the private variable inside the member inner class*/

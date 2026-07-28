@@ -14,7 +14,8 @@ class Outer
 	{
 		static double m3(short c)
 		{
-			System.out.println(c);                    //Outer obj=new Outer();
+			System.out.println(c);      
+			//Outer obj=new Outer();
 			System.out.println(new Outer().pass);
 			return sc.nextDouble();
 		}

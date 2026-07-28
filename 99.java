@@ -6,7 +6,7 @@ abstract class F
 	static Scanner sc=new Scanner(System.in);
 	abstract int m1(float a);
 	abstract byte m2(String b);
-	public static void main()
+	public static void main(String[] args)
 	{
 	F x=new F()
 	{
@@ -20,7 +20,7 @@ abstract class F
 			System.out.println(b);
 			return sc.nextByte();
 		}
-	}
+	};
 	System.out.println(x.m1(sc.nextFloat()));
 	System.out.println(x.m2(sc.next()));
 

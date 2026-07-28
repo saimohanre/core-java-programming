@@ -25,12 +25,8 @@ class D
 		public String getpass()
 		{
 			return pass;	
-		}
-		
-		
+		}	
 	}
-		
-	
 }
 class Test 
 {

@@ -5,7 +5,7 @@ class N
 	 	System.out.println(a);
 		return 20.0f;
 	}
-	Boolean m2(int a)b
+	Boolean m2(int a)
 	{
 		System.out.println(a);
 		return true;

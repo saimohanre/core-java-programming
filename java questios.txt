@@ -153,6 +153,8 @@ note:call the super class constructor with out explicitly using .
 
 87.cjawwh one interface which contains one abstract method one defined method then inherit this interface into one concret class provide implementation for abstract mehod and invoke all the properties under main method by providing dynamic inputs. 
 
+//interfaes
+
 89.cjawwh one interface which contains two abstract method two defined method then inherit this interface into one concret class provide implementation for abstract mehod and invoke all the properties under main method by providing dynamic inputs. 
 
 90.cjawwhave one interface which contains two abstract methods one defined method then inherit this interface into one abstract class which contains one abstract method and one pc then inherit this class intherit concret class  provide implemetion for all ABSTRCT METHODS BY PROVIDING DYNAMIC INPUTS
@@ -189,6 +191,37 @@ lamda expression
 INNER INTERFACE
 
 103.CJAP where we have one interface it contains 2 undefined methods and an inner interface which comtains one undefined method ,then provide functionality and invoke all the properties under main method by provding dynamic inputs.
+
+107.CJWWH ONE CLASS A STATIC MATHOD M1 HAVING TWO INTIGER PARAMETER AND RETURNS NOTHING PERFORM DEVISION OPERATION IN This method if any exception is occur the handle it and invoke this from the main method by providing dynamic inputs.
+
+////Threads 
+
+125.crjaww need creat a 1 custom defined thread and print the values from 1 to 10 by using custom defined thread.
+
+126.craww need to creat three custom defined methods and then checks whether the threads are in live state or not and display the priority values of the threads and then set prority values ans user defined names for the threads ans then  start and display their priority  values and then check whether they are in live state or not.
+
+127.Create a java application where we need to create one custom defined thread then print the values of with 1 to 10 with the time interval 10 sec12
+
+128.creat a java application ww need to craet to custom defined threads then 1 st thread have to print 1 to 10 numbers and other thread have to print the values from 2o to 30.
+
+129.creat java application where we need to creat to custom defined threads working on the same resource  which iterates the numbers from 1 to 20 the print all the three multiples by using first thread and all four multiple by using second thread.
+
+130.crjaww need to create three custom defined threads one thread print from 1 to 10 second thread will print 11 to 20 and last thread will 20 to 30 then the out  put should be in the order with out interruption.
+
+131. Create a java application where we need to create 2 custom defined threads one thread prints the numbers from 1 to 10 and other thread print the numbers from 11 to 20 then keep the second thread in waiting state until first thread prints upto 5 and then move it from waiting state to running state.
+
+132.creja we need to creat two custom defined threads  first thread has to print the letters from A to Z,and second thread has to letters from  a to z 
+note:-print the letters A to G after that print the letters from a to g after that print the capital letters after that print remaining small letters.
+
+133.Create a java application where we have one class which contains a method m1 which prints thevalues from 1 to 10 then access this resource with two different threads and it will allow only one by one thread.
+
+
+
+
+
+
+
+
 
 
 

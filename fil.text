@@ -1,0 +1,16 @@
+import java.io.*;
+class A
+{
+	public static void main(String[] args)
+	{
+		File f=new File("C:\\Users\\DELL\\OneDrive\\Desktop\\hi.txt");
+		if(f.createNewFile())
+		{
+			System.out.println("file is created");
+		}
+		else
+		{
+			System.out.println("file already created");
+		}
+	}	
+}

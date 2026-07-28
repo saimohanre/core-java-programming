@@ -20,7 +20,7 @@ abstract classs D
 		System.out.println(d);
 	}
 }
-class F
+class F extends D
 {
 	static Scanner sc=D.sc;
 	int m1(Boolean a)

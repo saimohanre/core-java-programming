@@ -1,0 +1,92 @@
+CAJAWWH one class like organisation, which provides the deatils like employee id,name,salary,designation,worklocation and company name. create 5 instances by adding 5 emolyee details and display any employee details.by using displaydetails method.According to the user choice byy providing dynamic inputs
+
+import java.util.Scanner;
+class Oraganization
+{
+	int eid;
+	String ename;
+	int esal;
+	String edes;
+	void dispaly()
+	{
+		eid=sc.nextInt();
+		esal=sc.nextInt();
+		ename=sc.next();
+		edes=sc.next();
+	}
+	void details()
+	{
+		System.out.println(eid);
+		System.out.println(ename);
+		System.out.println(edes);
+		System.out.println(esal);
+	}
+	public static void main(String args[])
+	{
+		Oraganization obj1=new Organization();
+		Oraganization obj2=new Organization();
+		Oraganization obj3=new Organization();
+		Oraganization obj4=new Organization();
+		Oraganization obj5=new Organization();
+		System.out.println("enter 1 st employ details");
+		obj1.display();
+		System.out.println("enter 2 st employ details");
+		obj2.display();
+		System.out.println("enter 3 st employ details");
+		obj3.display();
+		System.out.println("enter 4 st employ details");
+		obj4.display();
+		System.out.println("enter 5 st employ details");
+		obj5.display();
+
+		System.out.println("enter 1 for employ 1,\2 for employ 2,\3 for employ 3,\4 for employ 4,\5 for employ 5");
+		int n=sc.nextInt();
+		if(n==1)
+		{
+			obj1.details();
+			break;
+		}
+		esle if(n==2)
+		{
+			obj2.details();
+			break;	
+		}
+		esle if(n==3)
+		{
+			obj2.details();
+			break;	
+		}
+		esle if(n==4)
+		{
+			obj2.details();
+			break;	
+		}
+		esle if(n==4)
+		{
+			obj2.details();
+			break;	
+		}
+		else
+		{
+			System.out.println("Invalid Input");
+		}
+	}
+}
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

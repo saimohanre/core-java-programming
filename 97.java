@@ -1,3 +1,4 @@
+
 /*CAJAPWH one class it contains 1 static inner class which contains 1 static and non static methods and a member inner class which contains a non static method, inside this clss we have another member inner class which contains 1 non static method inside thismetod we have local inner class which have non static method ,invoke all these under main methods of separate class Test.*/
 
 import java.util.Scanner;
@@ -26,7 +27,7 @@ class F
 			class Member2 //member class
 			{
 				char m4(byte d)
-				{
+				{a
 					System.out.println(d);
 					class Member3  //local inner class
 					{

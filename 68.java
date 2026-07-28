@@ -31,7 +31,7 @@ class User
 		Bank obj=new Bank();
 		String  oldusername=obj.getusername();
 		System.out.println("enter the new user name");
-		b.setusername(sc.next());
+		obj.setusername(sc.next());
                 String newusr=b.getusername();
 		int oldpin=obj.getpin();
 		System.out.println("enete the new password");

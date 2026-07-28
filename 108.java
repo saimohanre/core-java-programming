@@ -24,7 +24,7 @@ class D
 	{
 		int n=sc.nextInt();
 		int s[]=new int [n];
-		for(int i=0;i<n;i++)			//int a[]={10,20,30,40,50}	
+		for(int i=0;i<n;i++)	//int a[]={10,20,30,40,50}	
 		{
 			s[i]=sc.nextInt();
 		}

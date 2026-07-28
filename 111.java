@@ -8,7 +8,7 @@ class D
 	{	
 		try
 		{
-		System.out.println(s.charAt(5));
+			System.out.println(s.charAt(5));
 		}
 		catch(StringIndexOutOfBoundsException d)
 		{

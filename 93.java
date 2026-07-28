@@ -171,7 +171,7 @@ class Test
 			case 2:
 				F u=new E();
 				obj.binder(u,n);
-		s		break;
+				break;
 			case 3:
 				F w=new G();	
 				obj.binder(w,n);
